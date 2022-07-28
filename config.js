@@ -1,3 +1,4 @@
+6
 // S C R I P T  O R I  B Y  @BochilGaming 🔭
 // M A D E  B Y  Letta - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
@@ -60,15 +61,15 @@ global.ppulsa2 = '085891056005'
 global.psaweria = 'Gaada bang :v'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285891056005'
-global.nomorown = '6285707042602'
-global.namebot = 'GeeruuOfC'
-global.nameown = 'Geeruu▪︎'
+global.nomorbot = '37253289813'
+global.nomorown = '6288212514602'
+global.namebot = 'azwanOfC'
+global.nameown = 'azwanxc▪︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285707042602', 'MRGeeruu', true]
+  ['6288212514602', 'MRazwanxd', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
